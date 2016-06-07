@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1B693DD7-54E5-4AD2-B706-8A5826E5CBFF</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Numerical Algorithms</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E48E6A2ABAEB943AF83BB2EB51921A39B23A145D</key>
+		<string>https://github.com/kylerries/Swift_Work_Practice.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Numerical Algorithms.playground</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E48E6A2ABAEB943AF83BB2EB51921A39B23A145D</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/kylerries/Swift_Work_Practice.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E48E6A2ABAEB943AF83BB2EB51921A39B23A145D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E48E6A2ABAEB943AF83BB2EB51921A39B23A145D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Swift_Work_Practice</string>
+		</dict>
+	</array>
+</dict>
+</plist>
